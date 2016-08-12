@@ -1,3 +1,3 @@
 <?PHP
-echo("index")
+echo("index");
 ?>
